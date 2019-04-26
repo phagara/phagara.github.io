@@ -28,6 +28,16 @@ projects:
     projects:
     # - repo-name
 
+collaborations:
+  sort_by: pushed
+  # sort_by options:
+  #   - pushed
+  #   - stars
+  limit: 9
+  exclude:
+    projects:
+    # - repo-name
+
 social_media:
   # behance: your_username
   # dribbble: your_username
