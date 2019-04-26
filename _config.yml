@@ -36,7 +36,7 @@ collaborations:
   limit: 9
   exclude:
     projects:
-    # - repo-name
+      - phagara.github.io
 
 social_media:
   # behance: your_username
