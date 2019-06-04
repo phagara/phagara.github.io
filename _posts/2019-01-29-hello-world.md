@@ -1,6 +1,6 @@
 ---
 title: "Welcome to Jekyll!"
-published: false
+published: true
 ---
 
 **Hello world**, this is my first Jekyll blog post.
@@ -73,3 +73,33 @@ one: Mark McGwire
 two: Sammy Sosa
 three: Ken Griffey
 ```
+
+
+# Lists
+
+## Unordered
+
+
+Paragraph before the list:
+
+* hello
+    * world
+* foo
+* bar
+    * baz
+    * rar
+* moo
+
+Paragraph after the list.
+
+
+## Ordered
+
+Number four will shock you!
+
+1. frist
+1. second
+    1. second and a half
+1. third
+
+There is no spoon.
